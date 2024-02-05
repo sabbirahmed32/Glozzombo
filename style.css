@@ -1,0 +1,32 @@
+
+body{
+    background-image: url(imag/pc.jpeg);
+    width: 100%;
+    height: auto;
+    
+
+}
+.navbar{
+    background-color: #000;
+}
+.nav-item{
+    font-size: 1.2rem;
+    padding-right: 10px;
+}
+.nav-header{
+    color: #797474 !important;
+}
+.nav-header:hover{
+    color: #fff !important;
+}
+
+
+/* slider */
+
+.overlay{
+    background-color: rgba(0,0,0,0.7);;
+}
+/* footer */
+.footerr{
+    background-color: #2a2828;
+}
